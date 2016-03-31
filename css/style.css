@@ -1,0 +1,24 @@
+body{
+  background-color: #202020 ;
+  font-family: Symbol;
+  color:snow;
+}
+
+.align-center{
+  text-align: center;
+  width:50% auto;
+}
+.input{
+  width: 50%;
+  font-size: 1.5em;
+  margin: 10px;
+  border-radius: 5px;
+  font-family: verdana;
+}
+.menu-container{
+  border:1px solid snow;
+}
+input[type='text'],input[type='tel']{
+  -webkit-appearance: caret;
+  -moz-appearance:caret;
+}
